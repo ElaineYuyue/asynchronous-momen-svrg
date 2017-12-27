@@ -1,2 +1,1 @@
 # asynchronous-momen-svrg
-# add 
