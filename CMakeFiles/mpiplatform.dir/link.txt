@@ -1,0 +1,1 @@
+/usr/bin/mpiCC    -std=c++11 -Ofast -g   CMakeFiles/mpiplatform.dir/src/main.cpp.o  -o mpiplatform -rdynamic gflags/libgflags_nothreads.a -larmadillo 

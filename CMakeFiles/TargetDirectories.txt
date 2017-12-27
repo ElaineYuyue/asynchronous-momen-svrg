@@ -1,0 +1,14 @@
+/home/ubuntu/MPIPlatform4/CMakeFiles/install.dir
+/home/ubuntu/MPIPlatform4/CMakeFiles/list_install_components.dir
+/home/ubuntu/MPIPlatform4/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/MPIPlatform4/CMakeFiles/mpiplatform.dir
+/home/ubuntu/MPIPlatform4/CMakeFiles/install/strip.dir
+/home/ubuntu/MPIPlatform4/CMakeFiles/install/local.dir
+/home/ubuntu/MPIPlatform4/CMakeFiles/edit_cache.dir
+/home/ubuntu/MPIPlatform4/gflags/CMakeFiles/install.dir
+/home/ubuntu/MPIPlatform4/gflags/CMakeFiles/list_install_components.dir
+/home/ubuntu/MPIPlatform4/gflags/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/MPIPlatform4/gflags/CMakeFiles/gflags_nothreads_static.dir
+/home/ubuntu/MPIPlatform4/gflags/CMakeFiles/install/strip.dir
+/home/ubuntu/MPIPlatform4/gflags/CMakeFiles/install/local.dir
+/home/ubuntu/MPIPlatform4/gflags/CMakeFiles/edit_cache.dir
